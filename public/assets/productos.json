@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Gorro",
+    "price": "1714.58",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/clothes-products/512/Hat_D-256.png",
+    "id": 1
+  },
+  {
+    "title": "Remera",
+    "price": "478.25",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/clothes-accessories-1-1/32/T-shirt-256.png",
+    "id": 2
+  },
+  {
+    "title": "Zapatillas",
+    "price": 784.2,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-256.png",
+    "id": 3
+  }
+]

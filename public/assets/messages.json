@@ -1,0 +1,32 @@
+[
+  {
+    "mail": "rodrigo@hotmail.comr",
+    "mensaje": "buenos dias",
+    "date": "Tue, 09 Aug 2022 01:53:25 GMT",
+    "id": 1
+  },
+  {
+    "mail": "añberto@gmail",
+    "mensaje": "buenas tardes",
+    "date": "Tue, 09 Aug 2022 02:08:42 GMT",
+    "id": 2
+  },
+  {
+    "mail": "andres@hotmail.com",
+    "mensaje": "buenas noches",
+    "date": "Tue, 09 Aug 2022 02:16:57 GMT",
+    "id": 3
+  },
+  {
+    "mail": "r@hotmail.com",
+    "mensaje": "u",
+    "date": "Tue, 09 Aug 2022 02:53:45 GMT",
+    "id": 4
+  },
+  {
+    "mail": "AXS@SCASAD",
+    "mensaje": "````",
+    "date": "Tue, 09 Aug 2022 02:53:55 GMT",
+    "id": 5
+  }
+]

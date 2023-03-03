@@ -1,0 +1,65 @@
+.title {
+    color: blue;
+    text-align: center;
+}
+
+table,.form {
+    max-width: 50%;
+    margin: auto;
+}
+
+
+
+.background_table {
+    background-color: lightyellow;
+}
+
+.btn_inicio {
+    background-color: lightblue;
+    border-color: transparent;
+    border-radius: 10%;
+}
+
+.btn_inicio a {
+    text-align: center;
+}
+
+.center_button {
+    text-align: center;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.centrar_form {
+    margin-left: 25%
+}
+
+#title,
+#price,
+#thumbnail,#mail,#mensaje {
+    background-color: lightyellow;
+}
+
+.tamaño {
+    width: 40px;
+}
+.mail{
+    color: blue;
+    font-weight: bold;
+}
+
+.date{
+    color: brown;
+    font-weight: normal;
+    
+}
+
+.mensaje{
+    color: green;
+   font-style: italic;
+   font-weight: normal;
+}
